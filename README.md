@@ -15,6 +15,7 @@ I am a **Professional WordPress Developer** and a **Full-stack Developer** with 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ahmodmusa&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmodmusa&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmodmusa&theme=radical)
 
 ---
 
