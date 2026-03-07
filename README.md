@@ -1,28 +1,32 @@
-# Hi there, I'm Ahmod Musa 👋
+# Hello, I'm Ahmod Musa 👋
 
-### 🚀 Professional WordPress Developer | Full-stack Engineer | Project Manager
-
-I am a passionate developer dedicated to building high-performance web applications and optimizing digital experiences. With a deep background in **WordPress Engineering** and **Full-stack Development**, I bridge the gap between complex backend logic and seamless user interfaces.
+I am a **Full-stack Developer** and **WordPress Engineer** with a passion for building clean, high-performance web solutions. Beyond code, I am the founder of a remote publishing firm and an experienced project manager who loves turning complex ideas into organized, functional reality.
 
 ---
 
-### 🛠 My Tech Stack & Tools
-
-- **Backend & CMS:** WordPress (Custom Plugins/Themes), WooCommerce, Python
-- **Frontend:** React, Next.js, Modern JavaScript (ES6+)
-- **Project Management:** GitHub Projects, SEO Audits, CRO Strategies
-- **AI-Powered Dev:** Agentic workflows (Windsurf, Trae AI) for rapid prototyping
-
----
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ahmodmusa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmodmusa&layout=compact&theme=radical)
+### 🌟 What I Do
+* **Web Engineering:** Specializing in advanced WordPress architecture, custom plugin development, and WooCommerce performance optimization.
+* **Full-Stack Development:** Building modern applications using Python, React, and Next.js.
+* **Digital Strategy:** Helping businesses scale through SEO audits, conversion rate optimization (CRO), and automated workflows.
+* **Publishing & Leadership:** Managing a creative publishing house that has successfully produced over 115 titles.
 
 ---
 
-### 📫 Connect with me:
-- **Expertise:** Custom Plugin Development, Performance Optimization, Digital Strategy.
-- **Goal:** Helping businesses scale through automated workflows and robust web architecture.
+### 🛠 Tech Stack
+* **Languages:** PHP, Python, JavaScript (ES6+), TypeScript.
+* **Frameworks:** React, Next.js, Tailwind CSS.
+* **Tools:** Git, GitHub Projects, and modern development agents for efficient workflows.
 
-*"Building the future of the web, one commit at a time."*
+---
+
+### 📊 My GitHub Journey
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmodmusa&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmodmusa&layout=compact&theme=radical&cache_seconds=1800)
+
+---
+
+### 🔗 Let's Connect
+* **Website:** [ahmodmusa.com](https://ahmodmusa.com)
+* **Focus:** I’m currently deep-diving into Python automation and integrating machine learning into web ecosystems.
+
+*"I believe in writing code that doesn't just work, but helps people grow."*
