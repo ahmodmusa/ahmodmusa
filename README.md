@@ -16,8 +16,8 @@ I am a passionate developer dedicated to building high-performance web applicati
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmodmusa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmodmusa&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmodmusa&show_icons=true&theme=radical&cache_seconds=1800&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmodmusa&layout=compact&theme=radical&cache_seconds=1800&v=1)
 
 ---
 
