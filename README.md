@@ -24,11 +24,11 @@ I also write books and run a publishing house with **115+ published titles**. Th
 ## 📚 Recent author websites
 
 These are examples of author websites I've built:
-
+- **[Philip McConnell](https://www.philipmcconnell.com/)** — Author website
+- **[Tayran Abir](https://www.tayranabir.com/)** — Author website
 - **[Love Fyneface](https://lovefyneface.pages.dev/)** — Author website
 - **[Hamza Iqbal](https://hamzaiqbal.pages.dev/)** — Author website
 - **[Micaiah T. “Mickey” Watson](https://mickeywatson.pages.dev/)** — Author website
-- **[Philip McConnell](https://www.philipmcconnell.com/)** — Author website
 - **[Bashan Murchison](https://bashan.pages.dev/)** — Author website
 
 ## 🧩 Selected websites & platforms
